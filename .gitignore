@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
+*.log
+.DS_Store
+Thumbs.db
+tmp/
+screenshots/*.png
+!screenshots/.gitkeep
